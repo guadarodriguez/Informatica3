@@ -1,5 +1,5 @@
 package PilasColas;
-import PilasColas.Stack;
+
 /*Implementación de una Pila:
 a. Crea una clase que represente una pila utilizando un arreglo.
 b. Implementa métodos para push (agregar un elemento), pop (eliminar
