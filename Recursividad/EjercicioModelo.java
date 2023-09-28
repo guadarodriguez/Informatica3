@@ -2,7 +2,7 @@ package Recursividad;
 
 public class EjercicioModelo {
     public static void main(String[] args) {
-        String [] arregloVocales ={"H","o","l","a"};
+        String [] arregloVocales ={"H","o","l","a","H","o","l","a"};
         System.out.println(Vocales(arregloVocales, 0, 0));
         
     }

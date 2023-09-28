@@ -7,14 +7,10 @@ public class EjercicioModelo4 {
        
     }
     public static int recursividad (int [] v, int n){
-        int num = 0;
-
         if(n==0){
             return 0;
         }else{
             return v[n-1] + recursividad(v, n-1);
-
-
         }
     }
 }

@@ -8,7 +8,6 @@ public class EjercicioModelo3 {
         recursiva(n);
     }
     public static void recursiva (int n){
-        String asteriscos = " ";
         if (n == 0){
             return;
         }else{
